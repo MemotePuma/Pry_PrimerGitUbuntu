@@ -10,3 +10,4 @@ Un binomio al cuadrado es igual a el cuadro del primero + 2 veces el primero por
 el segundo + el cuadrado del segundo.
 
 $(a+b) ^ 2 = a ^ 2 + 2ab + c ^ 2$
+
